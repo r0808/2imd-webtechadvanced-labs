@@ -1,4 +1,4 @@
-# 2imd-frontend-portfolio
+# 2IMD - Ismail El Ghamri - Portfolio
 
 ![hi there](images/hi_there.gif)
 
