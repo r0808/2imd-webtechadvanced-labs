@@ -1,6 +1,6 @@
 # 2IMD - Ismail El Ghamri - Portfolio
 
-![hi there](images/hi_there.gif)
+![hi there](https://github.com/ismailElg1/2imd-frontend-portfolio/blob/main/images/hi_there.gif)
 
 This is my repository that will hold all my lab projects 🤯
 
