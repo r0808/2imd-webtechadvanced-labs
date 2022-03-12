@@ -9,3 +9,5 @@
 
 [LAB3](https://github.com/ellendeveth/2imd-dev-portfolio/tree/main/Lab3-ES6)
 
+[LAB4](https://github.com/ellendeveth/2imd-dev-portfolio/tree/main/Lab4-app)
+
