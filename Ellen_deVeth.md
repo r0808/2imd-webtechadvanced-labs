@@ -1,7 +1,11 @@
-#Repository of all Labs
-https://github.com/ellendeveth/2imd-dev-portfolio 
+# Repository of all Labs
+[ellendeveth-portfolio](https://github.com/ellendeveth/2imd-dev-portfolio)
 
 
-1. [LAB1](https://github.com/ellendeveth/2imd-webtechadvanced-lab1)
+## LABS
+[LAB1](https://github.com/ellendeveth/2imd-webtechadvanced-lab1)
 
+[LAB2](https://github.com/ellendeveth/2imd-dev-portfolio/tree/main/Lab2)
+
+[LAB3](https://github.com/ellendeveth/2imd-dev-portfolio/tree/main/Lab3-ES6)
 
