@@ -1,4 +1,4 @@
-## Liena Paeps
+# Liena Paeps
 
 ## Portfolio
 * [Link naar portfolio](https://github.com/lienapaeps/2imd-webtechadvanced-portfolio)
@@ -7,5 +7,7 @@
 * [Link naar Lab 1](https://github.com/ellendeveth/2imd-webtechadvanced-lab1)
 
 ## Week 2 - FLEXBOX & CSS GRID
-* [Link naar The Future codepen](https://codepen.io/lienapaeps/pen/OJOwOZq?editors=1100)
-* [Link naar IMD-ticket codepen](https://codepen.io/lienapaeps/pen/GROBOGw?editors=1100)
+* [Link naar Lab 2](https://github.com/lienapaeps/2imd-webtechadvanced-portfolio/tree/main/lab2)
+
+## Week 3 - ES6
+* [Link naar Lab 3](https://github.com/lienapaeps/2imd-webtechadvanced-portfolio/tree/main/lab3)
