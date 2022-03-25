@@ -16,5 +16,7 @@
 * ## Lab 6 - [Visit repository](https://github.com/Rix11-H/live-scoreboard-app)
 > [Check it out with Heroku!](https://quidditch-scoreboard.herokuapp.com/)
 
+> [Check it out with CodeSandbox](https://codesandbox.io/s/strange-lalande-h74wkg)
+
 > To move to the live view, exchange "/" for "/live" in the url
 <img src="https://media.giphy.com/media/xCpBgX5TUWFM1sWPKm/giphy.gif"/>
