@@ -11,7 +11,7 @@
 
 * [Lab 3](https://github.com/lienapaeps/2imd-webtechadvanced-portfolio/tree/main/lab3)
 
-* Lab 4 - work in progress
+* [Lab 4](https://github.com/lienapaeps/2imd-webtechadvanced-portfolio/tree/main/lab4)
 
 * Lab 5 - work in progress
 
