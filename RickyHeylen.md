@@ -13,6 +13,12 @@
 
 > note: where VSCode has the app fully operational, codesandbox gives an error on JSON.parse. However, this doesn't seem to affect the app.
 
+* ## Lab 4 - [Visit repository](https://github.com/Rix11-H/2-imd-webtechadv-portfolio/tree/main/lab3)
+> Web advertisement for Genius.com!
+
+> Weather x Music API [Link to the codeSandbox](https://codesandbox.io/s/confident-gauss-yp49mw)
+<img src="https://media.giphy.com/media/jr0vhfFQ0OyBkuROpi/giphy.gif" height="250"/>
+
 * ## Lab 6 - [Visit repository](https://github.com/Rix11-H/live-scoreboard-app)
 > [Check it out with Heroku!](https://quidditch-scoreboard.herokuapp.com/)
 
